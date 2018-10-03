@@ -33,7 +33,7 @@ const data = [
         artist: 'Wiz Khalifa',
         genre: 'Hip-Hop/Rap',
         song: 'Hopeless Romantic',
-        image: 'https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/72/5a/e4/725ae48d-4405-d4bd-0694-91a1b16035d6/886447227169.jpg/268x0w.jpg'
+        image: 'https://upload.wikimedia.org/wikipedia/en/thumb/0/00/RollingPapers2Cover.png/220px-RollingPapers2Cover.png'
       },
       {
         artist: 'Jason Aldeen',
