@@ -73,37 +73,37 @@ const data = [
       },
       {
         artist: 'Luis Fonsi',
-        genre: 'Hispanic',
+        genre: 'Latino',
         song: 'Despacito',
         image: 'https://images-na.ssl-images-amazon.com/images/I/61sw1j2fR%2BL._SS500.jpg'
       },
       {
         artist: '6ix9ine',
-        genre: 'Hispanic',
+        genre: 'Latino',
         song: 'BEBE',
         image: 'https://i.ytimg.com/vi/_9wGRaQxZL8/hqdefault.jpg'
       },
       {
         artist: 'Prodigy.exe',
-        genre: 'Hispanic',
+        genre: 'Latino',
         song: 'Despacito 2',
         image: 'https://i.kym-cdn.com/entries/icons/mobile/000/026/318/bec_1_.jpg'
       },
       {
         artist: 'XXXTentacion',
-        genre: 'Hispanic',
+        genre: 'Latino',
         song: 'I dont even speak spanish lol',
         image: 'https://i.ytimg.com/vi/HjWsRYUKdS8/maxresdefault.jpg'
       },
       {
         artist: 'Luis Enrique',
-        genre: 'Hispanic',
+        genre: 'Latino',
         song: 'Amiga',
         image: 'https://i.ytimg.com/vi/WsFrDruqcn8/maxresdefault.jpg'
       },
       {
         artist: 'Los Tigres del Norte',
-        genre: 'Hispanic',
+        genre: 'Latino',
         song: 'El Caballo Chamacuz',
         image: 'https://images-na.ssl-images-amazon.com/images/I/61LuXDCXYfL._SS500.jpg'
       },
