@@ -137,6 +137,12 @@ const data = [
         song: 'Lucid Dreams',
         image: 'https://i.ytimg.com/vi/_fh64GbFSw4/maxresdefault.jpg'
       },
+      {
+        artist: 'XXXTentacion',
+        genre: 'R&B',
+        song: 'SAD!',
+        image: 'https://images.genius.com/cefcf70065cf258281a354367542be42.1000x1000x1.jpg'
+      }
 
   ]  
 
