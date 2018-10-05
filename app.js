@@ -14,14 +14,18 @@ window.onload = function () {
             })
             .map((val) => {
                 return `
-        
-        <h4 id="song">${val.song}</h4>
-        <h5 id="artist">${val.artist}</h5>
-        <h5 id="genre">${val.genre}</h5>
-        <img id="image" src="${val.image}" width='100px' height='100px'></img>   
-                
+            <div class="songContainer">
+                <h4 id="song">Song: ${val.song}</h4>
+                <h5 id="artist">Artist: ${val.artist}</h5>
+                <img id="image" src="${val.image}" width='100px' height='100px'></img>   
+            
+            </div>
+ 
+
+            
         `
-            });
+            })
+            .join('');
     });
 
 
